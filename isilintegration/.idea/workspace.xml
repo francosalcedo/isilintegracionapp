@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a3d3cd-3e39-4292-a8da-81ba4cea8911" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/models/Alumno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/repositories/AlumnoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/resources/AlumnoResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/services/AlumnoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/services/AlumnoService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -41,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ISIL 2019 - II/Integracion de aplicaciones/Proyecto/isilintegration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -81,7 +83,7 @@
       <workItem from="1570129408804" duration="82000" />
       <workItem from="1570129545972" duration="2283000" />
       <workItem from="1570137216556" duration="147000" />
-      <workItem from="1570214658164" duration="2766000" />
+      <workItem from="1570214658164" duration="3428000" />
     </task>
     <servers />
   </component>
