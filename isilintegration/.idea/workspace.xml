@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a3d3cd-3e39-4292-a8da-81ba4cea8911" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/repositories/AlumnoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/resources/AlumnoResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/models/Distrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/repositories/DistritoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/resources/DistritoResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/services/DistritoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/services/AlumnoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/services/AlumnoService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -84,6 +86,8 @@
       <workItem from="1570129545972" duration="2283000" />
       <workItem from="1570137216556" duration="147000" />
       <workItem from="1570214658164" duration="3428000" />
+      <workItem from="1570233053884" duration="92000" />
+      <workItem from="1570233151531" duration="1209000" />
     </task>
     <servers />
   </component>
@@ -95,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
