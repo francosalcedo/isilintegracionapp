@@ -18,13 +18,13 @@ public class Alumno {
     @Id
     private Long dni_alu;
 
-    @Column(name = "apellido")
+    @Column(name = "app_alu")
     private String apellido;
 
-    @Column(name="nombre")
+    @Column(name="nom_alu")
     private String nombre;
 
-    @Column(name = "dirección")
+    @Column(name = "dir_alu")
     private String dirección;
 
 
