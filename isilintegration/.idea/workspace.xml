@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a3d3cd-3e39-4292-a8da-81ba4cea8911" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/models/Distrito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/repositories/DistritoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/resources/DistritoResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/services/DistritoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/models/Carrera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/repositories/CarreraRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/resources/CarreraResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplicacion/src/main/java/pe/isil/integraciones/services/CarreraService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplicacion/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/aplicacion/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +41,17 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RhpuVVSAURdjZAoQHsALhLlLKm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
