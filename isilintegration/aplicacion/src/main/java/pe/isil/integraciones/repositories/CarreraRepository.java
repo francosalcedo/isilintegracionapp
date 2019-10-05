@@ -6,4 +6,5 @@ import pe.isil.integraciones.models.Carrera;
 
 @Repository
 public interface CarreraRepository extends JpaRepository<Carrera, Long> {
+
 }
